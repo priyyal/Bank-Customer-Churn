@@ -39,7 +39,6 @@ o	Comparative analysis of average balances and credit scores between churned and
 - `dashboard/`: Power BI file link for the churn analysis.
 - `datasets/`: Source dataset used for analysis.
 - `screenshots/`: Static images of key dashboard visuals for quick reference.
-- `docs/`: Supporting documentation, including methodology and findings.
 
 ## How to Use This Repository
 
